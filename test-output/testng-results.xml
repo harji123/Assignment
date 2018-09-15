@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-15T18:23:25Z" name="kindlepaperwhite" finished-at="2018-09-15T18:23:35Z" duration-ms="10005">
+    <groups>
+    </groups>
+    <test started-at="2018-09-15T18:23:25Z" name="loginscreen Test" finished-at="2018-09-15T18:23:35Z" duration-ms="10005">
+      <class name="TestCases.verifyloginscreen">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.verifyloginscreen@30d4b288]" started-at="2018-09-15T18:23:17Z" name="setup" finished-at="2018-09-15T18:23:25Z" duration-ms="8472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@30d4b288]" started-at="2018-09-15T18:23:25Z" name="verifyTitle" description="Verify User is on the Home Page" finished-at="2018-09-15T18:23:35Z" duration-ms="9927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.verifyloginscreen@30d4b288]" started-at="2018-09-15T18:23:35Z" name="tearDown" finished-at="2018-09-15T18:23:36Z" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.verifyloginscreen -->
+    </test> <!-- loginscreen Test -->
+  </suite> <!-- kindlepaperwhite -->
+</testng-results>

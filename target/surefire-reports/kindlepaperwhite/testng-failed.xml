@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [kindlepaperwhite]" verbose="0">
+  <test thread-count="5" name="loginscreen Test(failed)" verbose="0">
+    <classes>
+      <class name="TestCases.verifyloginscreen">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyTitle"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.verifyloginscreen -->
+    </classes>
+  </test> <!-- loginscreen Test(failed) -->
+</suite> <!-- Failed suite [kindlepaperwhite] -->

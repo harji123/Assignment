@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="kindlepaperwhite">
+
+<test name="loginscreen Test">
+	<classes>
+		<class name="TestCases.verifyloginscreen"></class>
+	</classes>
+</test>
+</suite>
