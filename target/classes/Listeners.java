@@ -97,7 +97,7 @@ public class Listeners extends Base implements IInvokedMethodListener, ITestList
 
 	public void beforeInvocation(IInvokedMethod method, ITestResult testResult) {
 		// TODO Auto-generated method stub
-		log.info(("Finish Of Execution(TEST)kkkkkkkkk->"+method.getTestMethod()));
+		
 	}
 
 	public void afterInvocation(IInvokedMethod method, ITestResult testResult) {

@@ -6,6 +6,7 @@
       <class name="TestCases.verifyloginscreen">
         <methods>
           <include name="tearDown"/>
+          <include name="tearDown"/>
           <include name="verifyTitle"/>
           <include name="setup"/>
         </methods>

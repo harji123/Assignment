@@ -1,177 +1,39 @@
-14:08:01.973 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyemail@30d4b288]
-14:08:01.978 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:08:01.982 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:08:09.730 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:08:09.730 INFO  Framework.Base -Start Of Execution(TEST)->Default test
-14:08:09.747 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:08:09.753 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyemail.verifyTitle()[pri:1, instance:TestCases.verifyemail@30d4b288]
-14:08:11.857 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:08:14.776 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (3c167d6cec74f40673382ba338c7262c)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:08:15.470 INFO  Framework.Base -beforeClickOn--> 2
+10:17:00.935 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@7096b474]
+10:17:00.943 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
+10:17:00.944 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
+10:17:11.899 INFO  Framework.Base -after navigate to https://www.amazon.ca/
+10:17:11.899 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
+10:17:11.914 INFO  Framework.Base -Start Of TEST->verifyTitle
+10:17:11.915 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@7096b474]
+10:17:12.425 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
+10:17:19.855 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (9c01d57f9caa6ef6a4eaf6d607202257)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
+10:17:20.785 INFO  Framework.Base -beforeClickOn--> 2
                                     
-14:08:15.599 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (3c167d6cec74f40673382ba338c7262c)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:08:15.846 INFO  Framework.Base -beforeClickOn--> 
-14:08:16.174 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (3c167d6cec74f40673382ba338c7262c)] -> xpath: //input[@id='add-to-cart-button']]
-14:08:19.346 INFO  Framework.Base -beforeClickOn--> 
-14:08:20.569 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (3c167d6cec74f40673382ba338c7262c)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:08:20.807 INFO  Framework.Base -beforeClickOn--> 
-14:08:21.532 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (3c167d6cec74f40673382ba338c7262c)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-14:08:21.679 INFO  Framework.Base -Test Passed--verifyTitle
-14:08:21.685 INFO  Framework.Base -Finish Of Execution(TEST)->Default test
-14:08:21.772 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyemail@30d4b288]
-14:08:21.772 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@1de9d54' Closed successfully
-14:13:58.052 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyemail@30d4b288]
-14:13:58.057 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:13:58.058 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:14:04.566 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:14:04.567 INFO  Framework.Base -Start Of Execution(TEST)->Default test
-14:14:04.586 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:14:04.594 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyemail.verifyTitle()[pri:1, instance:TestCases.verifyemail@30d4b288]
-14:14:06.729 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:14:09.705 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (bd53e1f66cfbec20704c45d90b46c7df)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:14:10.233 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-14:14:10.368 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (bd53e1f66cfbec20704c45d90b46c7df)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:14:10.543 INFO  Framework.Base -beforeClickOn--> 
-14:14:10.896 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (bd53e1f66cfbec20704c45d90b46c7df)] -> xpath: //input[@id='add-to-cart-button']]
-14:14:14.068 INFO  Framework.Base -beforeClickOn--> 
-14:14:15.353 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (bd53e1f66cfbec20704c45d90b46c7df)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:14:16.421 INFO  Framework.Base -beforeClickOn--> 
-14:14:17.288 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (bd53e1f66cfbec20704c45d90b46c7df)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-14:14:17.354 INFO  Framework.Base -Test Passed--verifyTitle
-14:14:17.358 INFO  Framework.Base -Finish Of Execution(TEST)->Default test
-14:14:17.414 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyemail@30d4b288]
-14:14:17.415 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@1de9d54' Closed successfully
-14:23:17.400 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@30d4b288]
-14:23:17.404 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:23:17.405 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:23:25.864 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:23:25.865 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
-14:23:25.934 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:23:25.949 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@30d4b288]
-14:23:26.612 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:23:29.176 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (13e7cab60e320b6231381bc33c2463e9)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:23:29.351 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-14:23:29.401 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (13e7cab60e320b6231381bc33c2463e9)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:23:29.861 INFO  Framework.Base -beforeClickOn--> 
-14:23:30.120 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (13e7cab60e320b6231381bc33c2463e9)] -> xpath: //input[@id='add-to-cart-button']]
-14:23:33.230 INFO  Framework.Base -beforeClickOn--> 
-14:23:34.282 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (13e7cab60e320b6231381bc33c2463e9)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:23:34.856 INFO  Framework.Base -beforeClickOn--> 
-14:23:35.684 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (13e7cab60e320b6231381bc33c2463e9)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-14:23:35.862 INFO  Framework.Base -Test Passed--verifyTitle
-14:23:35.870 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
-14:23:35.975 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@30d4b288]
-14:23:35.976 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@288cdaab' Closed successfully
-14:24:13.364 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:24:13.368 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:24:13.370 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:24:20.255 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:24:20.255 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
-14:24:20.270 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:24:20.270 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@6475472c]
-14:24:22.389 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:24:24.911 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (b501c69396674935bec0ddacceec5ffb)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:24:25.063 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-14:24:25.109 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (b501c69396674935bec0ddacceec5ffb)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:24:25.618 INFO  Framework.Base -beforeClickOn--> 
-14:24:25.914 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (b501c69396674935bec0ddacceec5ffb)] -> xpath: //input[@id='add-to-cart-button']]
-14:24:28.993 INFO  Framework.Base -beforeClickOn--> 
-14:24:30.071 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (b501c69396674935bec0ddacceec5ffb)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:24:30.373 INFO  Framework.Base -Test Failed--verifyTitle
-14:24:31.044 INFO  Framework.Base -screenshot captured Screenshots&reports\TestCases.verifyloginscreen.png
-14:24:31.081 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
-14:24:31.308 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:24:31.308 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@20e6c4dc' Closed successfully
-14:24:52.097 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:24:52.103 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:24:52.103 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:24:58.572 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:24:58.573 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
-14:24:58.587 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:24:58.587 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@6475472c]
-14:25:00.359 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:25:03.132 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (4e344f4e73d73a393036ca449d63f720)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:25:03.279 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-14:25:03.322 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (4e344f4e73d73a393036ca449d63f720)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:25:03.725 INFO  Framework.Base -beforeClickOn--> 
-14:25:03.956 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (4e344f4e73d73a393036ca449d63f720)] -> xpath: //input[@id='add-to-cart-button']]
-14:25:07.139 INFO  Framework.Base -beforeClickOn--> 
-14:25:08.353 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (4e344f4e73d73a393036ca449d63f720)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:25:08.635 INFO  Framework.Base -beforeClickOn--> 
-14:25:09.767 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (4e344f4e73d73a393036ca449d63f720)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-14:25:09.910 INFO  Framework.Base -Test Passed--verifyTitle
-14:25:09.914 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
-14:25:10.019 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:25:10.021 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@7f8633ae' Closed successfully
-14:27:20.108 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:27:20.113 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:27:20.113 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:27:27.532 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:27:27.533 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
-14:27:27.555 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:27:27.556 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@6475472c]
-14:27:29.604 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:27:31.965 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (1d0d016e4fa85c1f026cd11fbe3f57b6)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:27:32.187 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-14:27:32.241 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (1d0d016e4fa85c1f026cd11fbe3f57b6)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:27:32.536 INFO  Framework.Base -beforeClickOn--> 
-14:27:32.742 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (1d0d016e4fa85c1f026cd11fbe3f57b6)] -> xpath: //input[@id='add-to-cart-button']]
-14:27:35.889 INFO  Framework.Base -beforeClickOn--> 
-14:27:36.976 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (1d0d016e4fa85c1f026cd11fbe3f57b6)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:27:37.676 INFO  Framework.Base -beforeClickOn--> 
-14:27:38.665 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (1d0d016e4fa85c1f026cd11fbe3f57b6)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-14:27:38.779 INFO  Framework.Base -Test Passed--verifyTitle
-14:27:38.782 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
-14:27:38.827 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:27:38.828 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@7f8633ae' Closed successfully
-14:28:09.634 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:28:09.639 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-14:28:09.640 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-14:28:16.623 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-14:28:16.623 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
-14:28:16.636 INFO  Framework.Base -Start Of TEST->verifyTitle
-14:28:16.638 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@6475472c]
-14:28:18.473 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-14:28:21.279 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (2343960bca2e1f43f9c16f04ac3f7e66)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-14:28:21.442 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-14:28:21.488 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (2343960bca2e1f43f9c16f04ac3f7e66)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-14:28:21.906 INFO  Framework.Base -beforeClickOn--> 
-14:28:22.192 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (2343960bca2e1f43f9c16f04ac3f7e66)] -> xpath: //input[@id='add-to-cart-button']]
-14:28:25.332 INFO  Framework.Base -beforeClickOn--> 
-14:28:26.201 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (2343960bca2e1f43f9c16f04ac3f7e66)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-14:28:26.782 INFO  Framework.Base -beforeClickOn--> 
-14:28:27.505 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (2343960bca2e1f43f9c16f04ac3f7e66)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-14:28:27.673 INFO  Framework.Base -Test Passed--verifyTitle
-14:28:27.675 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
-14:28:27.722 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@6475472c]
-14:28:27.723 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@7f8633ae' Closed successfully
-15:04:46.053 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@7096b474]
-15:04:46.058 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
-15:04:46.058 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
-15:05:02.832 INFO  Framework.Base -after navigate to https://www.amazon.ca/
-15:05:02.833 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
-15:05:02.849 INFO  Framework.Base -Start Of TEST->verifyTitle
-15:05:02.849 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@7096b474]
-15:05:03.219 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
-15:05:06.801 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (ce5898ee6086af6900da1456e86ad67f)] -> xpath: //span[contains(text(),'Kindle Paperwhite')]]
-15:05:06.938 INFO  Framework.Base -beforeClickOn--> 2
-                                    
-15:05:06.986 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (ce5898ee6086af6900da1456e86ad67f)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
-15:05:07.449 INFO  Framework.Base -beforeClickOn--> 
-15:05:07.644 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (ce5898ee6086af6900da1456e86ad67f)] -> xpath: //input[@id='add-to-cart-button']]
-15:05:10.751 INFO  Framework.Base -beforeClickOn--> 
-15:05:11.751 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (ce5898ee6086af6900da1456e86ad67f)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
-15:05:12.321 INFO  Framework.Base -beforeClickOn--> 
-15:05:13.055 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (ce5898ee6086af6900da1456e86ad67f)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
-15:05:13.117 INFO  Framework.Base -Test Passed--verifyTitle
-15:05:13.119 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.verifyloginscreen@7096b474]
-15:05:14.120 INFO  Framework.Base -verifyTitlePASS
-15:05:14.121 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
-15:05:14.183 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@7096b474]
-15:05:14.184 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@7a5b769b' Closed successfully
+10:17:20.833 INFO  Framework.Base -after click on  [[[[ChromeDriver: chrome on XP (9c01d57f9caa6ef6a4eaf6d607202257)] -> xpath: //select[@id='quantity']]] -> xpath: .//option[normalize-space(.) = "2"]]
+10:17:20.946 INFO  Framework.Base -beforeClickOn--> 
+10:17:21.107 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (9c01d57f9caa6ef6a4eaf6d607202257)] -> xpath: //input[@id='add-to-cart-button']]
+10:17:24.198 INFO  Framework.Base -beforeClickOn--> 
+10:17:25.163 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (9c01d57f9caa6ef6a4eaf6d607202257)] -> xpath: //button[contains(@class,'a-button-close a-declarative')]]
+10:17:25.714 INFO  Framework.Base -beforeClickOn--> 
+10:17:26.429 INFO  Framework.Base -after click on  [[ChromeDriver: chrome on XP (9c01d57f9caa6ef6a4eaf6d607202257)] -> xpath: //a[@class='hucSprite s_checkout hlb-checkout-button']]
+10:17:26.500 INFO  Framework.Base -Test Passed--verifyTitle
+10:17:26.501 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.verifyloginscreen@7096b474]
+10:17:27.502 INFO  Framework.Base -verifyTitlePASS
+10:17:27.503 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
+10:17:27.574 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@7096b474]
+10:17:27.575 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@8bffb8b' Closed successfully
+11:55:27.784 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.setup()[pri:0, instance:TestCases.verifyloginscreen@7096b474]
+11:55:27.793 INFO  Framework.Base -Opening properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties
+11:55:27.794 INFO  Framework.Base -Properties file - C:\Assignment\Amazon\src\main\java\Resources\Data.properties Loaded.
+11:55:54.864 INFO  Framework.Base -after navigate to https://www.amazon.ca/
+11:55:54.864 INFO  Framework.Base -Start Of Execution(TEST)->loginscreen Test
+11:55:54.883 INFO  Framework.Base -Start Of TEST->verifyTitle
+11:55:54.884 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->verifyloginscreen.verifyTitle()[pri:1, instance:TestCases.verifyloginscreen@7096b474]
+11:55:58.576 INFO  Framework.Base -beforeClickOn--> Kindle Paperwhite
+11:55:58.678 INFO  Framework.Base -Test Failed--verifyTitle
+11:55:59.719 INFO  Framework.Base -screenshot captured Screenshots&reports\TestCases.verifyloginscreen.png
+11:55:59.760 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.verifyloginscreen@7096b474]
+11:56:00.761 INFO  Framework.Base -verifyTitle FAIL
+11:56:00.762 INFO  Framework.Base -Finish Of Execution(TEST)->loginscreen Test
+11:56:00.897 INFO  Framework.Base -Finish Of Execution(TEST)kkkkkkkkk->Base.tearDown()[pri:0, instance:TestCases.verifyloginscreen@7096b474]
+11:56:00.898 INFO  Framework.Base -Properties File - 'java.io.FileInputStream@1fde4f40' Closed successfully
